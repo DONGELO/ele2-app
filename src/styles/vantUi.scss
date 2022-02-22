@@ -1,0 +1,34 @@
+/* vant ui 样式*/
+
+/* home */
+.van-notice-bar{
+    background-color: white;
+}
+/* DetailPage 详情页  */
+.van-cell{
+    position: relative;
+    display: flex;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0;
+    overflow: hidden;
+    font-size: 12px;
+    line-height: 0px;
+    background-color: transparent ;
+}
+.van-cell__value--alone{
+    color: #323233;
+    text-align: center;
+}
+.van-nav-bar .van-icon{
+    color: #000;
+}
+
+.van-coupon-list__bottom{
+    position: fixed;
+    bottom: 0;
+}
+.van-coupon-list__list--with-bottom{
+    padding-bottom: 66px;
+    height: 400px !important;
+}
