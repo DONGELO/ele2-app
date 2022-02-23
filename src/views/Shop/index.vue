@@ -15,6 +15,7 @@
         <div class="administration"><p>管理</p></div>
       </div>
     </div>
+    <div>niaho</div>
     <div style="height:200px;"></div>
   </div>
 </template>
