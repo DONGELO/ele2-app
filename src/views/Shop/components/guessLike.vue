@@ -1,5 +1,7 @@
 <template>
-  <div>dsjslk</div>
+  <div>
+      猜你喜欢
+  </div>
 </template>
 
 <script>
